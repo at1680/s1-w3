@@ -17,7 +17,7 @@ public class CokeCooler {
         amount+=e;
     }
 
-    public int amountOfCoke(){
+    public int cokeCount(){
         return amount;
     }
 }
