@@ -3,8 +3,6 @@ public class ClassJarMain{
         CandyJar gummies = new CandyJar();
         CandyJar chocolate = new CandyJar();
 
-        gummies.setCandy(76);
-
         chocolate.setCandy(50);
 
         gummies.eatCandy(35);
